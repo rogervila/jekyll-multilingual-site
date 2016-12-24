@@ -1,0 +1,11 @@
+timezone: UTC
+permalink: pretty
+langs:
+  - 
+    name: Castellano
+    code: es
+  - 
+    name: English
+    code: en
+gems:
+  - octopress-minify-html

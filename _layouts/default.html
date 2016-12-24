@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>
-		{{ page.title | default: site.title }}
+		{{ site.data.translations.pages[page.type][page.lang].title | default: site.title }}
 	</title>
 
 	{% for current in site.langs %}

@@ -9,3 +9,4 @@ langs:
     code: en
 gems:
   - octopress-minify-html
+  - jekyll-sitemap

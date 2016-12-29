@@ -1,6 +1,10 @@
 title: Jekyll
 timezone: UTC
 permalink: pretty
+lang:
+  - 
+    name: Castellano
+    code: es
 langs:
   - 
     name: Castellano

@@ -5,3 +5,6 @@ texts:
   header: Jekyll en Castellano
   subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quis animi repellat vero sunt ullam consequatur quaerat. Earum blanditiis ab incidunt harum facilis, quo ut praesentium quam asperiores quis accusantium?
   whatever: texto random
+images:
+  hero: lake.jpg
+  whatever: lake.jpg
